@@ -50,7 +50,7 @@ root@8f3845883f74:~/alx-backend-python/0x02-python_async_comprehension# ./0-main
 
 **1. Async Comprehensions**
 
-File: [1-main.py](1-main.py/) - [1-async_comprehension.py](1-async_comprehension.py/)
+File:  [1-async_comprehension.py](1-async_comprehension.py/)
 
 Import async_generator from the previous task and then write a coroutine called async_comprehension that takes no arguments.
 
