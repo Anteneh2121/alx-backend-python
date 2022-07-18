@@ -23,7 +23,7 @@ Some of the Backend programming languages are Python, PHP, Ruby, C # and Java, a
 
 > :e-mail: [E-mail](antukassaw1@gmail.com)
 
-> :octocat: [Github](https://github.com/Anteneh)
+> :octocat: [Github](https://github.com/Anteneh2121)
 
 > :blue_book: [Linkedin](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
